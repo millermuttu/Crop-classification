@@ -32,7 +32,7 @@ the data set has two types of data
 
 And data for each crop for NDVI and EVI is collected over a period of year as shown below each crop is listed in rows and NDVI/EVI data is listed in columns (data is for randoms days from 1 to 365 days in a year)
 
-![dataview](dataview.PNG)
+![dataview](dataview.png)
 
 # Models tested 
 
@@ -48,7 +48,7 @@ Below are the models tested on the dataset for crop classification
 
 # Sample confusion matrix result
 
-![dataview](confusion_matrix.PNG)
+![dataview](confusion_matrix.png)
 
 ## Authors
 
